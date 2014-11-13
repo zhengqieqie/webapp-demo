@@ -5,7 +5,7 @@ Ext.application({
 	appFolder : 'App',
 	views : ['home.TopBar', 'home.NavigateView'],
 	launch : function() {
-		// version=1.0.0
+		// version=1.0.1
 		Ext.create('Ext.container.Viewport', {
 			layout : 'border',
 			items : [{
